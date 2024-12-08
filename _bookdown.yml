@@ -1,0 +1,9 @@
+book_filename: "Curso"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Capítulo "
+rmd_files:
+  - index.Rmd
+  - chapters/Capitulo1.Rmd
+

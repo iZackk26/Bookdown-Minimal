@@ -1,0 +1,8 @@
+bookdown::gitbook:
+  css: null
+  config:
+    toc:
+      collapse: section
+      before: null
+      after: null
+    download: ["pdf", "epub"]
